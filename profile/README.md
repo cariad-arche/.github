@@ -9,3 +9,5 @@ The product management team [Dr. Felix Reimann](mailto:felix.reimann@cariad.tech
 In concrete terms, it is not permitted to store information restricted by export control law in any repository in this organization.
 
 If you have any questions about using github.com, please contact [Export Control Department](mailto:exportcontrol@cariad.technology).
+
+Updated: 01.10.2025
