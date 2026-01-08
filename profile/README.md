@@ -10,4 +10,4 @@ In concrete terms, it is not permitted to store information restricted by export
 
 If you have any questions about using github.com, please contact [Export Control Department](mailto:exportcontrol@cariad.technology).
 
-Updated: 08.12.2025
+Updated: 08.01.2026
